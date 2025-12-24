@@ -14,10 +14,12 @@ var username="jhon"
 // var password="password123"
 
 // make variables for the the fields of intermediate exam form
+// document.getElementById("username").style.color="red"
+// document.getElementById("username").innerHTML=username
 
 
 function change(){
-    document.getElementById("username").style.color="red"
-    document.getElementById("username").innerHTML=username
+    var favcolor=prompt("enter you favourit color")
+    document.body.style.backgroundColor=favcolor
 
 }
