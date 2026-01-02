@@ -17,3 +17,5 @@ else if(marks<50){
 else{
     console.log("invalid marks")
 }
+
+https://syntaxscenarios.com/python/nested-if-else-scenario-problems/
